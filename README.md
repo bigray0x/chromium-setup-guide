@@ -122,4 +122,4 @@ docker system prune
 ```
 
 - this guide was sourced from 0xmoei.
-- you can follow my [Github](github.com/bigray0x) and My [Twitter](x.com/bigray0x)
+- you can follow my [Github](https://github.com/bigray0x) and My [Twitter](https://x.com/bigray0x)
